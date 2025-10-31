@@ -1,120 +1,58 @@
-<!--
-💫 GITHUB PROFILE: KARTHIK PATHA
-Professional | Elegant | Modern Canva-style Layout
--->
+# 👋 Hi, I’m Karthik Patha  
 
-<h1 align="center">👋  I'm <span style="color:#4A90E2;">Karthik Patha</span></h1>
-<h3 align="center">MHE & WMS Analyst | Supply Chain Systems Analyst | Data-driven Problem Solver</h3>
+### 🎯 Senior Supply Chain & WMS Analyst | MHE Integration Specialist | Data-Driven Support Leader  
 
 ---
 
-### 🧠 About Me  
+#### 🧠 About Me  
+I bring over **5 years of experience** in supporting, configuring, and optimizing **Warehouse Management (WMS)** and **Material Handling Equipment (MHE/WCS)** systems across large-scale distribution and retail operations.  
 
-🚀 Passionate about **Warehouse Automation**, **Supply Chain Systems**, and **Data Analytics**, I bring over **5 years of technical expertise** supporting and optimizing complex **WMS/WCS environments**.  
+Currently, I’m working as an **MHE Support Analyst at Burlington Coat Factory**, ensuring high availability, stability, and integration efficiency across **Manhattan WMOS 2018** and **MHE systems** such as **Dematic, Daifuku, Intelligrated, Eurosort, and Locus Robotics**.  
 
-💼 Currently working as an **MHE Support Analyst** at **Burlington Coat Factory**, where I ensure high system uptime and seamless integration between **Manhattan WMS** and **MHE systems (Dematic, Daifuku, Intelligrated, Eurosort, Locus Robotics)**.  
-
-📊 I thrive on analyzing data, troubleshooting system flows, and implementing automation that enhances warehouse efficiency and productivity.
-
----
-
-### 🧩 Core Expertise  
-
-| 💡 **Domain** | 🧰 **Skills & Tools** |
-|---------------|-----------------------|
-| **Warehouse Management Systems (WMS)** | Manhattan WMOS, Manhattan Active WMS |
-| **Material Handling Systems (MHE/WCS)** | Dematic, Daifuku, Intelligrated, Eurosort, Locus Robotics |
-| **Analytics & Reporting** | SQL, Power BI, Tableau, SCI Reports |
-| **Integration & Testing** | API Testing (Postman), Data Validation, System Configuration |
-| **Scripting & Automation** | Python, PowerShell, SQL |
-| **Infrastructure Support** | Windows/Linux, Middleware, Network Monitoring |
+My role bridges the gap between **technical troubleshooting, system integration, and data analytics**, leveraging tools like **SQL, Power BI, and Python** to monitor performance, identify root causes, and optimize warehouse operations.
 
 ---
 
-### 📈 Professional Timeline  
+#### 🛠️ Tech Stack  
 
-🧱 **MHE Support Analyst** — *Burlington Coat Factory*  
-📅 *Sep 2024 – Present*  
-• Leading real-time monitoring and incident management for MHE systems.  
-• Supporting message flow validation between **Dematic** and **WMOS**.  
-• On-call and onsite support for California DC operations.  
-
-🔧 **Implementation Consultant** — *Mercury Marine*  
-📅 *May 2023 – Sep 2024*  
-• Configured and optimized **Manhattan Active WMS** strategies.  
-• Worked on API troubleshooting, SCI reporting, and slotting optimization.  
-• Integrated Dematic systems for seamless WMS operations.  
-
-🖥️ **Support Engineer** — *Martin Brower*  
-📅 *Jun 2022 – May 2023*  
-• Provided L1–L4 support for **Dematic Systems** applications.  
-• Managed message validation between WMS and MHE layers.  
-• Built and tested **SCI reports** for e-commerce distribution centers.  
-
-🔍 **System Analyst** — *Williams Sonoma*  
-📅 *Apr 2019 – Dec 2021*  
-• Delivered L1–L4 support and performed RCA for production issues.  
-• Managed SQL replication and optimized database performance.  
-• Coordinated with cross-functional teams to streamline operations.
+- **Systems:** Manhattan WMS (Active/WMOS) • Dematic WCS • Daifuku • Intelligrated • Eurosort • Locus Robotics  
+- **Tools & Languages:** SQL • Python • Power BI • Tableau • PowerShell • Postman • Git • SharePoint  
+- **Domains:** WMS/WCS Integration • Real-Time Event Monitoring • Root Cause Analysis • Dashboarding • Process Automation • Incident Resolution (L1–L4 Support)  
 
 ---
 
-### 🛠️ Tech Stack  
+#### 📈 Featured Projects  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Manhattan%20WMS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dematic-000000?style=for-the-badge&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+1. **WMS–MHE Message Flow Monitor**  
+   🧩 SQL + Python scripts to validate message states (6120 – oLPN Canceled, 6180 – Packed oLPN, 6240 – Routing, 6360 – Locked, 6380 – Unlocked) between **Dematic** and **Manhattan WMS** for ensuring message consistency and operational flow.
+
+2. **Performance Dashboard**  
+   📊 Power BI dashboard visualizing warehouse throughput, downtime, and productivity KPIs to identify bottlenecks and improve operational efficiency.
+
+3. **SCI Report Automation**  
+   ⚙️ Automated report generation process in **Manhattan Active WMS (SCI)** to streamline data reporting and analytics for management and production tracking.
 
 ---
 
-### 📚 Education  
+#### 🎓 Education  
 
-🎓 **Master’s in Management Science**  
-*University of Dayton, Ohio*  
-
-🎓 **Bachelor’s in Electronics & Communication Engineering**  
-*Malla Reddy Institute of Engineering and Technology, Hyderabad*
+- 🎓 **Master of Management Science** — *University of Dayton, Ohio*  
+- 🎓 **Bachelor of Electronics & Communication Engineering** — *Malla Reddy Institute of Engineering & Technology, Hyderabad*  
 
 ---
 
-### 🏅 Certifications  
+#### 🏅 Certifications  
 
 - 🧾 **Microsoft Technology Associate – Python (Exam 98-381)**  
-- 📊 **Manhattan WMS & SCI Implementation Training (Internal)**  
 
 ---
 
-### 🌟 Featured Projects  
+#### 🌐 Let’s Connect  
 
-📌 **WMS–MHE Integration Flow Monitor**  
-> SQL + Python scripts for validating message flow between WMOS & Dematic.  
-
-📌 **Warehouse Performance Dashboard**  
-> Power BI & Tableau visualizations tracking operational KPIs and throughput.  
-
-📌 **SCI Report Automation Tool**  
-> Automated reporting for warehouse KPIs and exceptions.  
-
-*(More project repos coming soon!)*  
+📧 [pathakarthik1999@gmail.com](mailto:pathakarthik1999@gmail.com)  
+💼 [LinkedIn – Karthik Patha](https://www.linkedin.com/in/karthik-patha-0a7a07285/)  
+🐙 [GitHub – KarthikPatha](https://github.com/KarthikPatha)  
 
 ---
 
-### 🤝 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:pathakarthik1999@gmail.com"><img src="https://img.shields.io/badge/Email-PathaKarthik1999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/karthik-patha-0a7a07285/"><img src="https://img.shields.io/badge/LinkedIn-Karthik%20Patha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/KarthikPatha"><img src="https://img.shields.io/badge/GitHub-KarthikPatha-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<h3 align="center">✨ “Optimizing warehouse operations through data-driven automation and smart integration.” ✨</h3>
+✨ *“Optimizing warehouse operations through data-driven automation and seamless system integration.”*  
