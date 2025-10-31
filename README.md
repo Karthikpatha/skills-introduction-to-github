@@ -4,7 +4,7 @@ Professional | Elegant | Modern Canva-style Layout
 -->
 
 <h1 align="center">👋  I'm <span style="color:#4A90E2;">Karthik Patha</span></h1>
-<h3 align="center">MHE & WMS Analyst | Supply Chain Systems Engineer | Data-driven Problem Solver</h3>
+<h3 align="center">MHE & WMS Analyst | Supply Chain Systems Analyst | Data-driven Problem Solver</h3>
 
 ---
 
